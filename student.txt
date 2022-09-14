@@ -1,0 +1,5 @@
+Ravi    12th    A
+Rohit    10th    B
+Umesh    12th    A
+Varun    12th    B
+Arun    10th    C
